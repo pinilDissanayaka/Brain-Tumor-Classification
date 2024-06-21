@@ -20,9 +20,9 @@ This project uses MRI scans to detect and classify brain tumors, leveraging a CN
 
 ## About the Dataset
 The dataset combines three sources:
-- Figshare
-- SARTAJ Dataset
-- Br35H
+- [Figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)
+- [SARTAJ](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+- [Br35H](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no)
 
 It contains a total of 7023 MRI images of human brains, categorized into four classes:
 - Glioma
